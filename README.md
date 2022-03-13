@@ -2,16 +2,16 @@
 
 # About
 
-This report is a time series analysis of MercadoLibre's financial and user data. 
+This report is a time series analysis of MercadoLibre's financial and user data. This report includes metrics such as standard deviation, hourly stock return, and lagged search trends to determine potential correlations. This report also includes data visualization to determine hourly trends, weekly trends, seasonal trends, and projected revenues and search trends. 
 
-This assignment 
+This report is an assignment for the eleventh week of the FinTech bootcamp curriculum by Trilogy Education Services.
 
 # Technologies
 
 This analysis was made using Python (v3.7.0), WindowsOS (v20H2), and Google Colaboratory.
 
 This analaysis uses the following libraries and dependencies: <br/>
-pandas, numpy, holoview, hvplot, 
+pandas, numpy, pystan, holoview, hvplot, fbprophet, datetime, and matplotlib.
 
 # Data
 
