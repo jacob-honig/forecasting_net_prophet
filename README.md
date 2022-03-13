@@ -10,7 +10,7 @@ This report is an assignment for the eleventh week of the FinTech bootcamp curri
 
 This analysis was made using Python (v3.7.0), WindowsOS (v20H2), and Google Colaboratory.
 
-This analaysis uses the following libraries and dependencies: <br/>
+This analysis uses the following libraries and dependencies: <br/>
 pandas, numpy, pystan, holoview, hvplot, fbprophet, datetime, and matplotlib.
 
 # Data
